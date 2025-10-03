@@ -1,7 +1,7 @@
 # UTS_PBO
 Aplikasi Pengelola Hewan Peliharaan Sederhana
 
-Aplikasi ini adalah sebuah sistem manajemen data hewan peliharaan dasar yang dirancang khusus untuk mempraktikkan dan memperkuat pemahaman tentang konsep kunci dalam Object-Oriented Programming (OOP) menggunakan bahasa pemrograman Java.
+Aplikasi ini adalah sebuah sistem manajemen data hewan peliharaan dasar yang dirancang khusus untuk mempraktikkan dan memperkuat pemahaman tentang konsep kunci dalam Pemrograman Berorientasi Objek (PBO) menggunakan bahasa pemrograman Java.
 
 Inti Fitur
 
